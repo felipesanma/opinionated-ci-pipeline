@@ -2,6 +2,32 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.3.0](https://github.com/merapar/opinionated-ci-pipeline/compare/v4.3.0-beta.1...v4.3.0) (2025-07-07)
+
+## [4.3.0-beta.1](https://github.com/merapar/opinionated-ci-pipeline/compare/v4.3.0-beta.0...v4.3.0-beta.1) (2025-07-07)
+
+
+### Features
+
+* delete feature branch zip on branch destroy ([641d4e4](https://github.com/merapar/opinionated-ci-pipeline/commit/641d4e436bb62138d7dfc156b4154497bda86f4e)), closes [#15](https://github.com/merapar/opinionated-ci-pipeline/issues/15)
+
+
+### Bug Fixes
+
+* correct main pipeline repo file name to send build status ([329e997](https://github.com/merapar/opinionated-ci-pipeline/commit/329e997cfea9730d1b93f9ab64072afe4e0b3cbc))
+
+## [4.3.0-beta.0](https://github.com/merapar/opinionated-ci-pipeline/compare/v4.2.0...v4.3.0-beta.0) (2025-07-01)
+
+
+### Features
+
+* update lambdas Nodejs version ([861e8db](https://github.com/merapar/opinionated-ci-pipeline/commit/861e8dbe6601a3567ba90ead7b1b99d5309e92b7))
+
+
+### Bug Fixes
+
+* update webhook description ([d35238d](https://github.com/merapar/opinionated-ci-pipeline/commit/d35238dc4ecf3c643b9d5a18704b4bfe553a57b4)), closes [#17](https://github.com/merapar/opinionated-ci-pipeline/issues/17)
+
 ## [4.2.0](https://github.com/merapar/opinionated-ci-pipeline/compare/v4.2.0-beta.1...v4.2.0) (2024-10-21)
 
 
